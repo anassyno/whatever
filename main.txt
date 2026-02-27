@@ -12,3 +12,13 @@ alahu akbar
 iouztzcfhgbozvtczu
 uztzcfhghkzvtczfghbk
 kjzutrxfhgb
+feat 7 5555
+
+6
+4
+4
+
+
+feat 7
+
+print("ich bin Boris")
